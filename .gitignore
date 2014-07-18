@@ -1,0 +1,7 @@
+/WindowsHostsEditor/*.user
+/WindowsHostsEditor/obj
+/WindowsHostsEditor/bin
+/WindowsHostsEditorLib/obj
+/WindowsHostsEditorLib/bin
+/WindowsHostsEditorInstaller/Debug
+/WindowsHostsEditorInstaller/Release
