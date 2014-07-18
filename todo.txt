@@ -1,1 +1,3 @@
-Nothing for now
+TODO
+
+- Removal of comments go to end of list (check to see if is a visual error or if it changes the position of the entry in the file)
