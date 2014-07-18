@@ -21,7 +21,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_90C4C97C0B9B568DBACDBF9FFEA90C07"
+        "MsmKey" = "8:_E1E36C848EA44DB71C2559019BA2BAFC"
         "OwnerKey" = "8:_8B856FC5CBED4963866287324E0508D3"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -34,7 +34,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_90C4C97C0B9B568DBACDBF9FFEA90C07"
+        "OwnerKey" = "8:_E1E36C848EA44DB71C2559019BA2BAFC"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -62,6 +62,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
             }
         }
         "Release"
@@ -124,14 +132,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_90C4C97C0B9B568DBACDBF9FFEA90C07"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E1E36C848EA44DB71C2559019BA2BAFC"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:WindowsHostsEditorLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
+            "AssemblyAsmDisplayName" = "8:WindowsHostsEditorLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_90C4C97C0B9B568DBACDBF9FFEA90C07"
+                    "_E1E36C848EA44DB71C2559019BA2BAFC"
                     {
                     "Name" = "8:WindowsHostsEditorLib.dll"
                     "Attributes" = "3:512"
@@ -212,7 +220,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Windows Hosts File Editor"
         "ProductCode" = "8:{913E002A-0A8C-47D6-92C5-1872EF89441F}"
-        "PackageCode" = "8:{7E7F847C-C775-4C8B-8B4F-C2D12523B339}"
+        "PackageCode" = "8:{02FF72EC-EACA-472A-B83E-81EBF68CFCA9}"
         "UpgradeCode" = "8:{5EBF460D-2CF8-4E72-B0F4-CDCEEC948F9F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

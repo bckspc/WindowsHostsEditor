@@ -130,13 +130,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Snake\Circle.cs" />
-    <Compile Include="Snake\frmSnake.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Snake\frmSnake.designer.cs">
-      <DependentUpon>frmSnake.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmCleanUp.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -161,15 +154,10 @@
     <Compile Include="frmSettings.Designer.cs">
       <DependentUpon>frmSettings.cs</DependentUpon>
     </Compile>
-    <Compile Include="Snake\Input.cs" />
     <Compile Include="ListViewItemComparer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="ProgramSettings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Snake\Settings.cs" />
-    <EmbeddedResource Include="Snake\frmSnake.resx">
-      <DependentUpon>frmSnake.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmCleanUp.resx">
       <DependentUpon>frmCleanUp.cs</DependentUpon>
     </EmbeddedResource>
